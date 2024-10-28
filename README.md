@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cafeLatte-J
-- 👀 I’m interested in data analytics/data engineering and coding in general. I'm currently working as IT consultant in Tokyo.
-- 🌱 I’m currently learning SQL for data analysis and Python pandas. 
-- 💞️ I’m looking to collaborate on data analysis project. 
+- 👀 I’m IT consultant based in Tokyo, currently on maternity leave. I'm learning web development during my leave to transition into software development.  
+- 🌱 I’m currently learning JavaScript. 
+- 💞️ I’m looking to collaborate on web development projects. 
 
 <!---
 cafeLatte-J/cafeLatte-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
